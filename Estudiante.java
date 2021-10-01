@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Gabriel 
+ * @author - Gabri
  *  @version version2
  */
 public class Estudiante
