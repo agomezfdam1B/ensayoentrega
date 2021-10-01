@@ -3,7 +3,7 @@
  *  Descripción de un estudiante
  * 
  * @author - Gabriel 
- *  @version version1
+ *  @version version2
  */
 public class Estudiante
 {
